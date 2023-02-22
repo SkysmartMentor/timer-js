@@ -1,1 +1,1 @@
-[Click](https://skysmartmentor.github.io/timer-js/)
+# [Click](https://skysmartmentor.github.io/timer-js/)
